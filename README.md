@@ -1,4 +1,4 @@
-# Chess Playing Interface
+# Battle of Engines
 
 A complete chess interface built in Python using the Pygame library. This interface supports three game modes: Player vs Player, Player vs Stockfish, and Player vs Custom Chess Engines. The project includes custom chess engines with distinct evaluation strategies, providing a versatile and competitive chess experience.
 
